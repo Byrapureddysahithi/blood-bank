@@ -1,7 +1,7 @@
 <?php 
 // DB credentials.
-define('DB_HOST','bsahithisql1.mysql.database.azure.com');
-define('DB_USER','bsahithi');
+define('DB_HOST','sahithisql.mysql.database.azure.com');
+define('DB_USER','sahithi');
 define('DB_PASS','Sadhana17052003');
 define('DB_NAME','bbdms');
 
