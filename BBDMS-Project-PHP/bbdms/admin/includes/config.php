@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
 
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','sahithisql.mysql.database.azure.com');
+define('DB_USER','sahithi');
+define('DB_PASS','Sadhana17052003');
 define('DB_NAME','bbdms');
 // Establish database connection.
 try
