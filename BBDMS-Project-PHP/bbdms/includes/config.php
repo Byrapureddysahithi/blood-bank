@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','bsahithisql1.mysql.database.azure.com');
+define('DB_USER','bsahithi');
+define('DB_PASS','Sadhana17052003');
 define('DB_NAME','bbdms');
 
 // Establish database connection.
